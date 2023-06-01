@@ -8,7 +8,7 @@
 
   <!-- Info: -->
 
-👨‍💻 I'm a Smart Contract | Javascript Developer.<br>
+👨‍💻 I'm a fullstack (Smart Contract | Javascript) Developer.<br>
 🌱 I’m currently learning about gas optimization and ZK-proofs.<br>
 
 Open for collaborations on Web3 projects.
