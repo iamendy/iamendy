@@ -4,11 +4,11 @@
 
 [![Nnamdi Umeh Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nnamdipremium)
 [![Nnamdi Umeh Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamendy/)
-[![Nnamdi Umeh Portfolio](https://img.shields.io/badge/Portfolio-002C5F?style=for-the-badge&logo=ethereum&logoColor=white)](https://nnamdiumeh.dev/)
+[![Nnamdi Umeh Portfolio](https://img.shields.io/badge/Portfolio-002C5F?style=for-the-badge&logo=ethereum&logoColor=white)](https://www.nnamdiumeh.dev/)
 
   <!-- Info: -->
 
-👨‍💻 I'm a fullstack (Smart Contract | Javascript) Developer.<br>
+👨‍💻 I'm a full-stack (Smart Contract | Javascript) Developer.<br>
 🌱 I’m currently learning about gas optimization and ZK-proofs.<br>
 
 Open for collaborations on Web3 projects.
