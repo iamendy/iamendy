@@ -41,11 +41,6 @@
       <br>Node JS
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> 
-      <br>Git
-    </td>
-    <td align="center" width="96">
       <a href="https://www.chaijs.com" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="chai" width="48" height="48"/> 
       <br>Chai
@@ -66,6 +61,11 @@
       <a href="https://trufflesuite.com/truffle/" target="_blank" rel="noreferrer">
       <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_truffle.svg" alt="mocha" width="48" height="48"/> 
       <br>Truffle + Ganache
+    </td>
+         <td align="center" width="96">
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> 
+      <br>Git
     </td>
         <td align="center" width="96">
       <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
