@@ -8,14 +8,14 @@
 
   <!-- Info: -->
 
-👨‍💻 I'm a full-stack (Javascript | Nest | Solidity ) Developer.<br>
-🌱 Building scalable products that 10x your buisness growth. <br>
+👨‍💻 I'm a frontend Developer with a full-stack background (Javascript | Nest | Solidity ) <br>
+🌱 Building scalable products that 10x your business growth. <br>
 
 ---
 
   <!-- Languages and tools: -->
 
-### :hammer_and_wrench: Languages, Frameworks and Tools :
+### :hammer_and_wrench: Languages, Frameworks, and Tools :
 
   <div>
   <table align="left">
